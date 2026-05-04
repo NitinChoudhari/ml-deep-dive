@@ -49,7 +49,7 @@ I move on only when all 4 are solid.
 ## Connect
 
 - **GitHub:** [@NitinChoudhari](https://github.com/NitinChoudhari)
-- **LinkedIn:** [www.linkedin.com/in/nitin-choudhari]
+- **LinkedIn:** [@Linkedin](www.linkedin.com/in/nitin-choudhari)
 - **Production GenAI work:** see my [LogMind](https://github.com/YOUR_USERNAME/LogMind) repo
 
 ---
