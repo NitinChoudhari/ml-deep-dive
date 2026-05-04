@@ -1,6 +1,6 @@
 # Linear Regression on Real-World Data (Feature Scaling)
 
-Same algorithm as `02-`, but applied to noisy real-world housing data (size vs price). This forced me to encounter and solve real ML preprocessing challenges.
+Same algorithm as `02-Linear Regression`, but applied to noisy real-world housing data (size vs price). This forced me to encounter and solve real ML preprocessing challenges.
 
 ## What I built
 - `linear_regression_with_scaling.ipynb` — predicts house price from size in sq ft
