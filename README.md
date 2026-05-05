@@ -18,6 +18,7 @@ This repo is my answer. Every algorithm here is implemented from scratch in NumP
 | 02 | [Linear Regression (single feature)](./02-linear-regression-single-feature/) | Gradient descent, MSE loss, learning rate |
 | 03 | [Linear Regression on real data](./03-linear-regression-real-data/) | Feature scaling, irreducible error |
 | 04 | [Multivariate Linear Regression](./04-multivariate-linear-regression/) | Vectorized math, multi-feature gradient descent |
+| 05 | [Cross-Entropy Loss](./05-cross-entropy/) | Surprise as loss, on/off switching, classification foundations |
 
 More coming as I progress: logistic regression, decision trees, neural networks from scratch, CNNs, transformers, fine-tuning.
 
