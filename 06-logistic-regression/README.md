@@ -53,4 +53,5 @@ Accuracy = 90%, with errors only on the genuinely noisy outlier points.
 - Calibrated uncertainty in classifiers
 
 ## Connections
-- Built on: `01-entropy/`, `05-cross-
+- Built on: `01-entropy/`, `05-cross-entropy/`, `02-linear-regression-single-feature/`
+- Enables: multivariate logistic regression, neural networks (a single neuron = logistic regression)
