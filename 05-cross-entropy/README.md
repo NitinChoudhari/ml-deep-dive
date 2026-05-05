@@ -3,7 +3,7 @@
 Building intuition for binary cross-entropy from first principles. Covers why the formula works, the on/off switching trick, asymmetric punishment of confident wrongness, and the 0.693 baseline.
 
 ## What I built
-- `cross_entropy_intuition.ipynb` — derivation, single-sample examples, on/off switching demonstration, loss curve visualization, and multi-sample comparison
+- `binaryCrossEntropyLossForOneExampleMachineLearningAngle.ipynb` — derivation, single-sample examples, on/off switching demonstration, loss curve visualization, and multi-sample comparison
 
 ## What I learned
 
