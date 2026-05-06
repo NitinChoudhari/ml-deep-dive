@@ -69,11 +69,7 @@ The ROC curve is great visually, but AUC summarizes it as a single number betwee
 
 AUC has a beautiful interpretation: it's **the probability that a randomly chosen positive example will be ranked higher than a randomly chosen negative example**. So AUC = 0.9495 means: "If I pick a random student who passed and a random student who failed, my model assigns a higher pass-probability to the actual passer 94.95% of the time."
 
-I computed AUC three different ways to verify my understanding:
-
-1. **Trapezoidal rule** (numerical integration of the ROC curve)
-2. **Pairwise comparison** (count fraction of correctly ranked positive-negative pairs — direct probability interpretation)
-3. **sklearn's `roc_auc_score`** (production approach)
+I computed AUC using **sklearn's `roc_auc_score`** (production approach)
 
 All three methods agreed exactly at 0.9495, confirming I understand both the math and the interpretation.
 
