@@ -103,7 +103,7 @@ All three methods agreed exactly at 0.9495, confirming I understand both the mat
 - Why training accuracy < 100% is correct on noisy data
 - Calibrated uncertainty in classifiers
 - ROC curve construction and interpretation
-- AUC computation (trapezoidal rule, pairwise comparison, library implementation)
+- AUC computation
 - Threshold tuning for application-specific tradeoffs (cancer screening vs spam filter)
 
 ## Connections
