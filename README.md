@@ -20,6 +20,7 @@ This repo is my answer. Every algorithm here is implemented from scratch in NumP
 | 04 | [Multivariate Linear Regression](./04-multivariate-linear-regression/) | Vectorized math, multi-feature gradient descent |
 | 05 | [Cross-Entropy Loss](./05-cross-entropy/) | Surprise as loss, on/off switching, classification foundations |
 | 06 | [Logistic Regression](./06-logistic-regression/) | Sigmoid, cross-entropy loss, decision boundary, confusion matrix |
+| 07 | [Ridge & Lasso Regression](./07-ridge-lasso-regression/) | L2 vs L1 regularization, why Lasso drives weights to exactly zero, geometric interpretation |
 
 More coming as I progress: logistic regression, decision trees, neural networks from scratch, CNNs, transformers, fine-tuning.
 
