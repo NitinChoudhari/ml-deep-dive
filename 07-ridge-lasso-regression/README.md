@@ -4,7 +4,7 @@ Implementation of L2 (Ridge) and L1 (Lasso) regularization in NumPy by adding a 
 
 ## What I built
 
-- `ridge_lasso_regression.ipynb` — Linear, Ridge, and Lasso compared side-by-side on the housing dataset (size → price)
+- `ridge-regression.ipynb & lasso_regression.ipynb` — Linear, Ridge, and Lasso compared on the housing dataset (size → price)
 - Lambda sweep experiments showing how regularization strength affects weight shrinkage
 - Visual comparison of all three regression lines on the same plot
 
@@ -56,6 +56,7 @@ In the implementation, we only add the regularization term to the weight gradien
 ```python
 dw = (2/n) * np.sum(error * X) + 2 * lambda_reg * w   # regularized
 db = (2/n) * np.sum(error)                             # NOT regularized
+```
 
 The bias represents the baseline prediction (when all features are zero). Penalizing the bias would force predictions toward zero regardless of the data, which destroys the model's ability to fit any non-zero target. Standard practice in all ML libraries.
 
