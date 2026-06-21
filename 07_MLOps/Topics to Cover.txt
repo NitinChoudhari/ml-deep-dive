@@ -1,7 +1,0 @@
-FastAPI
-Docker
-MLflow
-DVC
-CI/CD
-Deployment
-Monitoring

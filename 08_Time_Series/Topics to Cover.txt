@@ -1,4 +1,0 @@
-ARIMA
-SARIMA
-Prophet
-LSTM Time Series
