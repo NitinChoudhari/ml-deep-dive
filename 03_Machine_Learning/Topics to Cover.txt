@@ -1,0 +1,34 @@
+Regression
+Linear Regression
+Ridge
+Lasso
+ElasticNet
+
+Classification
+Logistic Regression
+KNN
+Naive Bayes
+SVM
+
+Tree Models
+Decision Trees
+Random Forest
+Extra Trees
+XGBoost
+LightGBM
+CatBoost
+
+Clustering
+KMeans
+Hierarchical
+DBSCAN
+
+Dimensionality Reduction
+PCA
+t-SNE
+UMAP
+
+Model Evaluation
+Bias vs Variance
+Metrics
+Cross Validation

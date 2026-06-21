@@ -1,0 +1,18 @@
+Traditional NLP
+Tokenization
+Stemming
+Lemmatization
+TF-IDF
+Word2Vec
+
+Modern NLP
+BERT
+GPT
+T5
+Sentence Transformers
+
+Tasks
+Text Classification
+NER
+Sentiment Analysis
+Summarization

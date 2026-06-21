@@ -1,0 +1,14 @@
+Perceptron
+ANN
+Backpropagation
+Activation Functions
+CNN
+RNN
+LSTM
+GRU
+Attention
+Transformers
+
+Frameworks:
+TensorFlow
+PyTorch

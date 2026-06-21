@@ -1,0 +1,32 @@
+LLM Fundamentals
+Transformers
+Tokenizers
+Embeddings
+
+Prompt Engineering
+Zero-shot
+Few-shot
+Chain of Thought
+
+Vector Databases
+FAISS
+ChromaDB
+
+RAG
+Chunking
+Retrieval
+Re-ranking
+
+Agents
+LangChain
+LangGraph
+MCP
+Tool Calling
+
+Fine Tuning
+LoRA
+QLoRA
+
+Evaluation
+RAGAS
+TruLens
