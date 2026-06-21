@@ -1,6 +1,6 @@
 # AI-ML-DeepDive
 
-> My personal curriculum for going from GenAI integrator to ML engineer — math, classic ML, deep learning, NLP, generative AI, MLOps, and time series, in that order.
+> My personal curriculum for going from GenAI integrator to ML engineer — math, classic ML, deep learning, NLP, generative AI, MLOps, time series, and distributed training, building toward training my own SLM/LLM from scratch.
 
 ## Why this repo exists
 
@@ -20,6 +20,7 @@ AI-ML-DeepDive/
 ├── 06_Generative_AI/                LLM fundamentals, prompting, vector DBs (FAISS/ChromaDB), RAG, agents (LangChain/LangGraph/MCP), fine-tuning (LoRA/QLoRA), eval (RAGAS/TruLens)
 ├── 07_MLOps/                        FastAPI, Docker, MLflow, DVC, CI/CD, deployment, monitoring
 ├── 08_Time_Series/                  ARIMA, SARIMA, Prophet, LSTM
+├── 09_Distributed_Training/         GPU/CUDA fundamentals, mixed precision, DDP, NCCL collectives, ZeRO/FSDP, tensor & pipeline parallelism, DeepSpeed, Megatron-LM, profiling — training infra for the SLM/LLM project
 └── 10-neural-network-from-scratch/  Standalone NN-from-scratch notebook (currently at repo root, not nested under 04_Deep_Learning)
 ```
 
